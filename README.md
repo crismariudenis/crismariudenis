@@ -36,11 +36,6 @@
 
 
 <p align="center">
-    <img
-        align="center"
-        height="195px"
-        src="https://github-readme-stats.vercel.app/api?username=CrismariuDenis&show_icons=true&hide_border=true&count_private=true&include_all_commits=true &hide_rank=true&theme=github_dark"
-    />
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crismariudenis&langs_count=10&layout=compact&hide_border=true&theme=github_dark" />
 </p>
 <p align="center">
