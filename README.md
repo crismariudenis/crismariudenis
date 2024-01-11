@@ -14,14 +14,4 @@
 </p>
 
 
-<p align="center">
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crismariudenis&langs_count=10&layout=compact&hide_border=true&theme=github_dark" />
-</p>
-<p align="center">
-<a href="https://github.com/crismariudenis/NeuralNetworkCpp">
-    <img align="center" width="390" height="195px" src="https://github-readme-stats.vercel.app/api/pin/?username=crismariudenis&repo=NeuralNetworkCpp&theme=github_dark" />
-</a>
-<a href="https://github.com/crismariudenis/DotsAi">
-    <img align="center" width="390" height="195px" src="https://github-readme-stats.vercel.app/api/pin/?username=crismariudenis&repo=DotsAi&theme=github_dark" />
-</a>
-</p>
+
